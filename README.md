@@ -1,1 +1,1 @@
-# COD-2026RoboMaster-Balance-Simulation_File
+# 【RM2026-串联腿闭链结构高保真MJCF&USD文件开源】辽宁科技大学COD战队
